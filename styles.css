@@ -1,0 +1,64 @@
+body {
+  background-color: #14062A;
+  font-family: optima, sans-serif;
+}
+
+#title {
+  color: white;
+  text-align: center;
+  padding-top: 200px;
+}
+
+#main {
+  width: 350px;
+  height: 150px;
+  margin: auto;
+  border: 3.8px;
+  border-style: double;
+  border-color: black;
+  border-radius: 25px;
+  background-color: #FAF9F6;
+  box-shadow: 5px 5px 10px #11135F;
+}
+
+#child {
+  margin-top: 20px;
+}
+
+#sub-title {
+  font-family: verdana, sans-serif;
+  font-size: 0.8rem;
+  text-align: center;
+  margin-top: 15px;
+}
+
+#form {
+  text-align: center;
+  justify-content: center;
+}
+
+#result {
+  font-family: verdana, sans-serif;
+  font-size: 1.1rem;
+  text-align: center;
+  padding-top: 0px;
+}
+
+#check-btn {
+  font-family: verdana, sans-serif;
+  border-width: 1px;
+  border-style: groove;
+  border-color: #11135F;
+  border-radius: 25px;
+  padding: 5px 14px 5px 14px;
+  background-color: #0096FF;
+  color: white;
+}
+
+#text-input {
+  font-style: italic;
+  border: none;
+  border-bottom: 1.5px solid black;
+  padding-right: 5px;
+}
+
