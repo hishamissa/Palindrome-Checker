@@ -3,10 +3,9 @@ A simple program that checks whether or not a word is a Palindrome. A palindrome
 
 This is done by obtaining the word input in the text box, cleaning the input to remove unneccesary symbols/characters, reversing the string and comparing it to the original input and printing the result. 
 
-
-![Screenshot 2024-07-30 at 11 31 33 AM](https://github.com/user-attachments/assets/b00b6dba-f768-4594-a004-537e40623598)
-![Screenshot 2024-07-30 at 11 32 41 AM](https://github.com/user-attachments/assets/623e344f-7acb-486c-9089-9d5c5175fc4b)
-![Screenshot 2024-07-30 at 11 32 57 AM](https://github.com/user-attachments/assets/a82420ad-d245-46b7-939b-7cfc900baef4)
-![Screenshot 2024-07-30 at 11 34 21 AM](https://github.com/user-attachments/assets/6cc45044-7a19-45cc-855c-3d164c9802a6)
+![Screenshot 2024-07-30 at 11 39 17 AM](https://github.com/user-attachments/assets/771a00fa-e3a4-4ddc-947d-a3ac4321913a)
+![Screenshot 2024-07-30 at 11 39 27 AM](https://github.com/user-attachments/assets/a90bfbc0-eb45-4fa4-baa1-72e53ee40dbc)
+![Screenshot 2024-07-30 at 11 39 36 AM](https://github.com/user-attachments/assets/9496592d-04af-44c2-8112-96fcd92b87ec)
+![Screenshot 2024-07-30 at 11 40 01 AM](https://github.com/user-attachments/assets/2d3b82a3-78a1-4086-8305-0f106f013091)
 
 Developed entirely by Hisham Issa. The project idea and test cases were provided through freeCodeCamp.org. 
